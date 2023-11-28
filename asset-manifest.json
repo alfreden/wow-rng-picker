@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wow-rng-picker/static/css/main.08afae8a.css",
-    "main.js": "/wow-rng-picker/static/js/main.275f59b4.js",
-    "static/js/787.44d587e5.chunk.js": "/wow-rng-picker/static/js/787.44d587e5.chunk.js",
-    "index.html": "/wow-rng-picker/index.html",
-    "main.08afae8a.css.map": "/wow-rng-picker/static/css/main.08afae8a.css.map",
-    "main.275f59b4.js.map": "/wow-rng-picker/static/js/main.275f59b4.js.map",
-    "787.44d587e5.chunk.js.map": "/wow-rng-picker/static/js/787.44d587e5.chunk.js.map"
+    "main.css": "/wow-rng-page/static/css/main.08afae8a.css",
+    "main.js": "/wow-rng-page/static/js/main.9994c040.js",
+    "static/js/787.44d587e5.chunk.js": "/wow-rng-page/static/js/787.44d587e5.chunk.js",
+    "index.html": "/wow-rng-page/index.html",
+    "main.08afae8a.css.map": "/wow-rng-page/static/css/main.08afae8a.css.map",
+    "main.9994c040.js.map": "/wow-rng-page/static/js/main.9994c040.js.map",
+    "787.44d587e5.chunk.js.map": "/wow-rng-page/static/js/787.44d587e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08afae8a.css",
-    "static/js/main.275f59b4.js"
+    "static/js/main.9994c040.js"
   ]
 }
